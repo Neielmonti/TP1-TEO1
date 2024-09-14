@@ -1,0 +1,11 @@
+a_1
+:=
+35
+
+
+FOR (i+=1 INT i=1; i<=10; ) {
+	contador += 1 ;
+	
+	</ esto es un comentario />
+}
+
